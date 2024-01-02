@@ -1,0 +1,11 @@
+.fieldset{
+  border-style: dotted;
+  border-color:#82ccdd;
+  background-color:rgba(240, 230, 140,0.9);
+}
+.leg {
+  color: rgba(250, 0, 0, 0.7);
+}
+.btn {
+  background-color: #82ccdd !important;
+}
